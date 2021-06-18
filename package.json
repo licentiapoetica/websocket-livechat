@@ -1,0 +1,17 @@
+{
+  "name": "livechat-ws",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "sanitize-html": "^2.4.0",
+    "ws": "^7.5.0"
+  }
+}
